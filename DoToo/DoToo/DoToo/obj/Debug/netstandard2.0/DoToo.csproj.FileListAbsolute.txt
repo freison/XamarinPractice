@@ -1,0 +1,7 @@
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csprojAssemblyReference.cache
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\App.xaml.g.cs
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.CoreCompileInputs.cache
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfoInputs.cache
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfo.cs
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.deps.json
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.dll

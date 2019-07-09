@@ -1,0 +1,4 @@
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo.Android\obj\Debug\90\build.props
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo.Android\obj\Debug\90\adb.props
+K:\Disco\Repositorios\XamarinPractice\XamarinPractice\DoToo\DoToo\DoToo.Android\obj\Debug\90\DoToo.Android.csprojAssemblyReference.cache
